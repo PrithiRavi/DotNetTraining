@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8db37aa8-b602-4a26-8d90-988757540b2c": {
+      "ProjectGuid": "8db37aa8-b602-4a26-8d90-988757540b2c",
+      "DisplayName": "API_dotNetTraining",
+      "ColorIndex": 0
+    },
+    "74ca4dd6-27c6-4b3c-8d4b-6185c1f69873": {
+      "ProjectGuid": "74ca4dd6-27c6-4b3c-8d4b-6185c1f69873",
+      "DisplayName": "ProjectManagementBusiness",
+      "ColorIndex": 1
+    },
+    "b06c6ae3-22c7-4927-b415-6c18d2c82c43": {
+      "ProjectGuid": "b06c6ae3-22c7-4927-b415-6c18d2c82c43",
+      "DisplayName": "ProjectManagementRepository",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

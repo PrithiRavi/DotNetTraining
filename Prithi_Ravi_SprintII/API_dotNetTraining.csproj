@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="6.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\Admin\Downloads\gl_dotnet_training-main (1)\gl_dotnet_training-main\VinayRamesh_Sprint_II\ProjectManagementBusiness\ProjectManagementBusiness.csproj" />
+    <ProjectReference Include="C:\Users\Admin\Downloads\gl_dotnet_training-main (1)\gl_dotnet_training-main\VinayRamesh_Sprint_II\ProjectManagementRepository\ProjectManagementRepository.csproj" />
+  </ItemGroup>
+
+</Project>
