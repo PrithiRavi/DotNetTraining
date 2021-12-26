@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "152049e3-7344-435e-9b06-aefa516f68c2": {
+      "ProjectGuid": "152049e3-7344-435e-9b06-aefa516f68c2",
+      "DisplayName": "ProjectManagement",
+      "ColorIndex": 0
+    },
+    "33a76173-c8d1-48ef-a27f-1757157556e8": {
+      "ProjectGuid": "33a76173-c8d1-48ef-a27f-1757157556e8",
+      "DisplayName": "ProjectManagementTestSuite",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
